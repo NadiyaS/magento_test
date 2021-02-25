@@ -1,7 +1,7 @@
-# Scenario based deployment
+# Scenario-based deployment
 Link https://devdocs.magento.com/cloud/deploy/scenario-based-deployment.html
 
-Add module to your code 
+Add module to your code, 
 change hook scripts in .magento.app.yaml to merge with new custom scenario from the module
 
 ```yaml
